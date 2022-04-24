@@ -3037,7 +3037,7 @@ namespace JJWBSService
             DataTable QgDt = DBService.My.FromSql("select * from view_bim_qingdam_map").ToDataTable();
             DataTable view_bim_qingdan = DBService.My.FromSql("select S_XIANGMMC,B.S_QDBH as S_QDBH1,A.S_QDBH as S_QDBH ,F_DANJ,F_SHUL,F_JINE,F_FHDJ,F_FHSL,F_FHJE,A.S_LISTINGID as S_LISTINGID1  from view_bim_qingdan A " +
                 "left join (select S_QDBH,S_LISTINGID from view_bim_qingdan where S_LISTINGID=substring(S_LISTINGID,1,12)) B on substring(A.S_LISTINGID,1,12)=B.S_LISTINGID ").ToDataTable();
-            List<PLN_taskproc> task = DBService.Context.FromSql("select * from pln_taskproc where proj_id=10 and plan_guid<>'df89f1d2-8210-4edd-bbf7-e60ee3be2a11'and plan_guid='3d82fc97-0ca9-3409-9e03-b11e565f5836' ").ToList<PLN_taskproc>();
+            List<PLN_taskproc> task = DBService.Context.FromSql("select * from pln_taskproc where proj_id=10 and plan_guid<>'df89f1d2-8210-4edd-bbf7-e60ee3be2a11'").ToList<PLN_taskproc>();
             DataTable dataTable = DBService.My.FromSql("select ebs_id from view_bim_ebs group by ebs_id ").ToDataTable();
 
             //List<NPS_BOQ> NPS_BOQList = DBService.Context.FromSql("select * from NPS_BOQ left join pln_taskproc on fid=proc_guid where plan_guid<>'df89f1d2-8210-4edd-bbf7-e60ee3be2a11' ").ToList<NPS_BOQ>();
