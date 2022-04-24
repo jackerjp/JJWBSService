@@ -1,0 +1,48 @@
+D:\Projects\靖江\接口\JJWBSService\JJWBSService\bin\Debug\JJWBSService.exe.config
+D:\Projects\靖江\接口\JJWBSService\JJWBSService\bin\Debug\JJWBSService.exe
+D:\Projects\靖江\接口\JJWBSService\JJWBSService\bin\Debug\JJWBSService.pdb
+D:\Projects\靖江\接口\JJWBSService\JJWBSService\bin\Debug\Dos.ORM.dll
+D:\Projects\靖江\接口\JJWBSService\JJWBSService\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Projects\靖江\接口\JJWBSService\JJWBSService\obj\Debug\JJWBSService.csprojAssemblyReference.cache
+D:\Projects\靖江\接口\JJWBSService\JJWBSService\obj\Debug\JJWBSService.csproj.CoreCompileInputs.cache
+D:\Projects\靖江\接口\JJWBSService\JJWBSService\obj\Debug\JJWBSService.csproj.CopyComplete
+D:\Projects\靖江\接口\JJWBSService\JJWBSService\obj\Debug\JJWBSService.exe
+D:\Projects\靖江\接口\JJWBSService\JJWBSService\obj\Debug\JJWBSService.pdb
+D:\Projects\靖江\接口\JJWBSService\JJWBSService\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Projects\靖江\JJWBSService\JJWBSService\obj\Debug\JJWBSService.csproj.CoreCompileInputs.cache
+D:\Projects\靖江\JJWBSService\JJWBSService\bin\Debug\JJWBSService.exe.config
+D:\Projects\靖江\JJWBSService\JJWBSService\bin\Debug\JJWBSService.exe
+D:\Projects\靖江\JJWBSService\JJWBSService\bin\Debug\JJWBSService.pdb
+D:\Projects\靖江\JJWBSService\JJWBSService\obj\Debug\JJWBSService.csproj.CopyComplete
+D:\Projects\靖江\JJWBSService\JJWBSService\obj\Debug\JJWBSService.exe
+D:\Projects\靖江\JJWBSService\JJWBSService\obj\Debug\JJWBSService.pdb
+D:\Projects\靖江\JJWBSService\JJWBSService\obj\Debug\JJWBSService.csprojAssemblyReference.cache
+D:\Projects\靖江\JJWBSService\JJWBSService\bin\Debug\Dos.ORM.MySql.xml
+D:\Projects\靖江\JJWBSService\JJWBSService\bin\Debug\Dos.ORM.dll
+D:\Projects\靖江\JJWBSService\JJWBSService\bin\Debug\Dos.ORM.xml
+D:\项目\靖江\JJWBSService\JJWBSService\JJWBSService\bin\Debug\JJWBSService.exe.config
+D:\项目\靖江\JJWBSService\JJWBSService\JJWBSService\bin\Debug\JJWBSService.exe
+D:\项目\靖江\JJWBSService\JJWBSService\JJWBSService\bin\Debug\JJWBSService.pdb
+D:\项目\靖江\JJWBSService\JJWBSService\JJWBSService\bin\Debug\Dos.ORM.xml
+D:\项目\靖江\JJWBSService\JJWBSService\JJWBSService\bin\Debug\Dos.ORM.MySql.xml
+D:\项目\靖江\JJWBSService\JJWBSService\JJWBSService\obj\Debug\JJWBSService.csprojAssemblyReference.cache
+D:\项目\靖江\JJWBSService\JJWBSService\JJWBSService\obj\Debug\JJWBSService.csproj.CoreCompileInputs.cache
+D:\项目\靖江\JJWBSService\JJWBSService\JJWBSService\obj\Debug\JJWBSService.csproj.CopyComplete
+D:\项目\靖江\JJWBSService\JJWBSService\JJWBSService\obj\Debug\JJWBSService.exe
+D:\项目\靖江\JJWBSService\JJWBSService\JJWBSService\obj\Debug\JJWBSService.pdb
+D:\powercode\JJWBSService\JJWBSService\bin\Debug\JJWBSService.exe.config
+D:\powercode\JJWBSService\JJWBSService\bin\Debug\JJWBSService.exe
+D:\powercode\JJWBSService\JJWBSService\bin\Debug\JJWBSService.pdb
+D:\powercode\JJWBSService\JJWBSService\obj\Debug\JJWBSService.csproj.CoreCompileInputs.cache
+D:\powercode\JJWBSService\JJWBSService\obj\Debug\JJWBSService.csproj.CopyComplete
+D:\powercode\JJWBSService\JJWBSService\obj\Debug\JJWBSService.exe
+D:\powercode\JJWBSService\JJWBSService\obj\Debug\JJWBSService.pdb
+D:\powercode\JJWBSService\JJWBSService\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Jp\Documents\WeChat Files\wxid_3z2azy013k5322\FileStorage\File\2021-10\JJWBSService\JJWBSService\bin\Debug\JJWBSService.exe.config
+C:\Users\Jp\Documents\WeChat Files\wxid_3z2azy013k5322\FileStorage\File\2021-10\JJWBSService\JJWBSService\bin\Debug\JJWBSService.exe
+C:\Users\Jp\Documents\WeChat Files\wxid_3z2azy013k5322\FileStorage\File\2021-10\JJWBSService\JJWBSService\bin\Debug\JJWBSService.pdb
+C:\Users\Jp\Documents\WeChat Files\wxid_3z2azy013k5322\FileStorage\File\2021-10\JJWBSService\JJWBSService\obj\Debug\JJWBSService.csproj.CoreCompileInputs.cache
+C:\Users\Jp\Documents\WeChat Files\wxid_3z2azy013k5322\FileStorage\File\2021-10\JJWBSService\JJWBSService\obj\Debug\JJWBSService.csproj.CopyComplete
+C:\Users\Jp\Documents\WeChat Files\wxid_3z2azy013k5322\FileStorage\File\2021-10\JJWBSService\JJWBSService\obj\Debug\JJWBSService.exe
+C:\Users\Jp\Documents\WeChat Files\wxid_3z2azy013k5322\FileStorage\File\2021-10\JJWBSService\JJWBSService\obj\Debug\JJWBSService.pdb
+C:\Users\Jp\Documents\WeChat Files\wxid_3z2azy013k5322\FileStorage\File\2021-10\JJWBSService\JJWBSService\obj\Debug\JJWBSService.csproj.AssemblyReference.cache
